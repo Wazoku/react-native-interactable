@@ -36,6 +36,8 @@ android {
             }
         }
     }
+
+    namespace 'com.wix.interactable'
 }
 
 dependencies {
